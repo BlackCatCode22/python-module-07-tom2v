@@ -1,0 +1,31 @@
+
+****** Zoo Population And Habitat Report ******
+Number of Animals: 16
+
+Hyena Habitat:
+Number of Hyenas: 4
+Hy01, Zig; birthdate: 2021-03-02; tan color; sex: female; weight: 70 lbs; arrived: 2025-04-20
+Hy02,  Bud; birthdate: 2013-09-15; brown color; sex: male; weight: 150 lbs; arrived: 2025-04-20
+Hy03,  Lou; birthdate: 2021-03-02; black color; sex: male; weight: 120 lbs; arrived: 2025-04-20
+Hy04,  Kamari; birthdate: 2017-09-15; black & tan color; sex: female; weight: 105 lbs; arrived: 2025-04-20
+
+Lion Habitat:
+Number of Lions: 4
+Li01, Kiara; birthdate: 2019-03-02; tan color; sex: female; weight: 300 lbs; arrived: 2025-04-20
+Li02,  King; birthdate: 2013-12-21; dark tan color; sex: female; weight: 375 lbs; arrived: 2025-04-20
+Li03,  Drooper; birthdate: 2003-09-15; golden color; sex: male; weight: 450 lbs; arrived: 2025-04-20
+Li04,  Kimba; birthdate: 2021-03-02; tan & brown color; sex: female; weight: 275 lbs; arrived: 2025-04-20
+
+Tiger Habitat:
+Number of Tigers: 4
+Li01, Cosimia; birthdate: 2023-03-02; gold and tan stripes color; sex: male; weight: 270 lbs; arrived: 2025-04-20
+Li02,  Cuddles; birthdate: 2021-03-02; black stripes color; sex: female; weight: 400 lbs; arrived: 2025-04-20
+Li03,  Dave; birthdate: 2007-09-15; gold and tan color; sex: male; weight: 300 lbs; arrived: 2025-04-20
+Li04,  Jiba; birthdate: 2022-03-02; black stripes color; sex: female; weight: 285 lbs; arrived: 2025-04-20
+
+Bear Habitat:
+Number of Bears: 4
+Li01, Lippy; birthdate: 2018-03-02; brown color; sex: male; weight: 320 lbs; arrived: 2025-04-20
+Li02,  Bungle; birthdate: 2000-03-02; black color; sex: female; weight: 425 lbs; arrived: 2025-04-20
+Li03,  Baloo; birthdate: 2021-09-15; black color; sex: female; weight: 355 lbs; arrived: 2025-04-20
+Li04,  Rupert; birthdate: 2021-03-02; brown color; sex: male; weight: 405 lbs; arrived: 2025-04-20
